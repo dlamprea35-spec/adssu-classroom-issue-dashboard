@@ -1,0 +1,401 @@
+report_id,timestamp,campus_location,building_name,room_number,reporter_role,issue_description,category,urgency_level,resolution_status,days_to_resolve
+REP-1001,2026-08-12 08:15:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,"Ceiling fan is making a loud grinding noise and wobbling, plus the fluorescent light near the board is flickering.",Electrical,High,Resolved,2
+REP-1002,2026-08-12 09:30:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Aircon is blowing warm air and leaking water onto the tiled floor near the outlets.,HVAC/Ventilation,Critical,Resolved,1
+REP-1003,2026-08-13 10:45:00,Main Campus,College of Agriculture,CA-204,Student,Three wooden armchairs have broken backrests and loose screws; chalkboard surface is peeling.,Furniture & Fixtures,Medium,Resolved,5
+REP-1004,2026-08-14 13:20:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Projector HDMI port is damaged and wall outlet has no power.,IT & Audio-Visual,High,Resolved,3
+REP-1005,2026-08-15 14:10:00,Main Campus,Science Laboratory Building,SLB-301,Faculty,Faucet at the lab sink is leaking continuously and floor drain is clogged.,Plumbing,High,Resolved,2
+REP-1006,2026-08-18 07:50:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,Fluorescent bulb burned out again and wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,1
+REP-1007,2026-08-19 11:05:00,Main Campus,College of Arts & Sciences,CAS-108,Student,"Window jalousies are missing two glass blades, allowing rain to splash onto the front row chairs.",Structural/Civil,Medium,Resolved,4
+REP-1008,2026-08-20 15:40:00,Main Campus,College of Teacher Education,CTE-105,Student,Smart TV screen flickers and Wi-Fi access point in the room keeps disconnecting.,IT & Audio-Visual,Medium,Resolved,3
+REP-1009,2026-08-22 09:00:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Aircon dripping water again and electrical outlet nearby tripped the breaker.,HVAC/Ventilation,Critical,Resolved,1
+REP-1010,2026-08-25 10:15:00,Main Campus,College of Agriculture,CA-201,Student,Doorknob is jammed from the inside and ceiling board shows water stains from roof leak.,Structural/Civil,High,Pending,
+REP-1011,2026-08-26 13:00:00,Main Campus,College of Arts & Sciences,CAS-102,Faculty,Whiteboard is heavily stained and eraser tray fell off; two ceiling fans are not spinning.,Furniture & Fixtures,Low,Resolved,7
+REP-1012,2026-08-27 16:10:00,Main Campus,Science Laboratory Building,SLB-302,Student,Exposed electrical wiring near the back counter and busted exhaust fan.,Electrical,Critical,Resolved,1
+REP-1013,2026-08-28 08:40:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Faculty,Projector mount is loose and VGA/HDMI wall plate is detached.,IT & Audio-Visual,High,In Progress,
+REP-1014,2026-09-01 11:25:00,Main Campus,College of Teacher Education,CTE-202,Student,Broken window lock and five plastic monobloc chairs are cracked.,Furniture & Fixtures,Low,Pending,
+REP-1015,2026-09-02 14:50:00,Main Campus,College of Agriculture,CA-204,Faculty,"Roof leak above the teacher's podium during heavy rain, wetting the electrical extension cord.",Structural/Civil,Critical,In Progress,
+REP-1016,2026-09-03 07:30:00,Main Campus,College of Agriculture,CA-202,Faculty,"Exhaust fan is busted and makes a burning smell; fluorescent light near the board is flickering, and wall switch sparks slightly when turned on.",Electrical,Critical,Resolved,1
+REP-1017,2026-09-03 07:45:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Several chairs are missing screws and wobble.,Furniture & Fixtures,Low,Resolved,6
+REP-1018,2026-09-03 09:45:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Teacher's table drawer is stuck and the table top is damaged.,Furniture & Fixtures,Low,Resolved,6
+REP-1019,2026-09-03 10:10:00,Main Campus,College of Arts & Sciences,CAS-101,Faculty,"Fluorescent bulb burned out again, and aircon is blowing warm air.",Electrical,Critical,Resolved,2
+REP-1020,2026-09-03 12:30:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Five plastic monobloc chairs are cracked.,Furniture & Fixtures,Low,Resolved,7
+REP-1021,2026-09-03 12:35:00,Main Campus,Science Laboratory Building,SLB-301,Faculty,Floor drain is clogged.,Plumbing,High,Resolved,3
+REP-1022,2026-09-03 14:25:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,Circuit breaker keeps tripping; ceiling fan is making a loud grinding noise and wobbling.,Electrical,Critical,Resolved,2
+REP-1023,2026-09-03 14:50:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,Three wooden armchairs have broken backrests and loose screws.,Furniture & Fixtures,Medium,Resolved,7
+REP-1024,2026-09-03 16:00:00,Main Campus,College of Agriculture,CA-202,Faculty,Wall fan oscillation is stuck and the room is too hot.,HVAC/Ventilation,High,Resolved,4
+REP-1025,2026-09-03 16:15:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Five plastic monobloc chairs are cracked and also whiteboard frame is broken and the eraser tray fell off.,Furniture & Fixtures,Low,Resolved,7
+REP-1026,2026-09-04 13:55:00,Main Campus,College of Agriculture,CA-204,Student,"Wall fan oscillation is stuck and the room is too hot, and circuit breaker keeps tripping.",HVAC/Ventilation,Critical,Resolved,3
+REP-1027,2026-09-05 08:10:00,Main Campus,College of Agriculture,CA-205,Student,Fluorescent light near the board is flickering.,Electrical,High,Resolved,2
+REP-1028,2026-09-05 12:10:00,Main Campus,Science Laboratory Building,SLB-302,Student,Electric fan stopped working during class.,Electrical,Critical,Resolved,11
+REP-1029,2026-09-05 12:35:00,Main Campus,College of Agriculture,CA-205,Faculty,Projector will not turn on.,IT & Audio-Visual,Medium,Resolved,7
+REP-1030,2026-09-05 16:45:00,Main Campus,College of Agriculture,CA-202,Faculty,Wall outlet is loose and the plate is cracked.,Electrical,High,Resolved,15
+REP-1031,2026-09-07 09:00:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,"Exposed electrical wiring near the back counter, and wall outlet has no power.",Electrical,High,Resolved,3
+REP-1032,2026-09-07 10:10:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,"Five plastic monobloc chairs are cracked, plus extension cord is exposed and the socket is hot.",Furniture & Fixtures,Critical,Resolved,3
+REP-1033,2026-09-09 11:55:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,"Student desk leg is loose, plus several chairs are missing screws and wobble.",Furniture & Fixtures,Low,Resolved,6
+REP-1034,2026-09-09 14:45:00,Main Campus,College of Agriculture,CA-201,Student,Exposed electrical wiring near the back counter.,Electrical,Critical,Resolved,1
+REP-1035,2026-09-09 14:55:00,Main Campus,College of Agriculture,CA-202,Faculty,Two ceiling fans are not spinning.,Electrical,Medium,Resolved,7
+REP-1036,2026-09-09 15:45:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Teacher's table drawer is stuck and the table top is damaged.,Furniture & Fixtures,Low,Resolved,23
+REP-1037,2026-09-09 16:05:00,Main Campus,College of Teacher Education,CTE-105,Student,Fluorescent light near the board is flickering and also circuit breaker keeps tripping; extension cord is exposed and the socket is hot.,Electrical,Critical,Resolved,1
+REP-1038,2026-09-10 08:50:00,Main Campus,College of Agriculture,CA-202,Student,Circuit breaker keeps tripping.,Electrical,High,Resolved,10
+REP-1039,2026-09-10 10:05:00,Main Campus,College of Agriculture,CA-202,Faculty,Exhaust fan does not pull air and the room feels stuffy; wall switch sparks slightly when turned on.,HVAC/Ventilation,High,Resolved,3
+REP-1040,2026-09-10 16:40:00,Main Campus,College of Agriculture,CA-202,Student,Wall outlet has no power.,Electrical,High,Resolved,4
+REP-1041,2026-09-11 08:20:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Two ceiling fans are not spinning; wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,2
+REP-1042,2026-09-11 12:55:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Student desk leg is loose and also three wooden armchairs have broken backrests and loose screws.,Furniture & Fixtures,Medium,Resolved,4
+REP-1043,2026-09-14 08:40:00,Main Campus,College of Arts & Sciences,CAS-108,Student,LAN port at the teacher's station is dead.,IT & Audio-Visual,Medium,Resolved,15
+REP-1044,2026-09-14 10:20:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Electric fan stopped working during class.,Electrical,Medium,Resolved,24
+REP-1045,2026-09-14 10:50:00,Main Campus,College of Teacher Education,CTE-105,Student,Wall outlet is loose and the plate is cracked.,Electrical,Critical,Resolved,2
+REP-1046,2026-09-14 10:55:00,Main Campus,College of Agriculture,CA-202,Student,Two ceiling fans are not spinning; aircon is blowing warm air.,Electrical,High,Resolved,4
+REP-1047,2026-09-14 14:00:00,Main Campus,College of Agriculture,CA-201,Faculty,Floor drain is clogged.,Plumbing,Low,Resolved,5
+REP-1048,2026-09-14 14:05:00,Main Campus,College of Arts & Sciences,CAS-108,Student,Exhaust fan is busted and makes a burning smell and also ceiling fan is making a loud grinding noise and wobbling.,Electrical,High,Resolved,4
+REP-1049,2026-09-14 15:20:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Fluorescent bulb burned out again.,Electrical,Low,Resolved,5
+REP-1050,2026-09-15 09:45:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,Wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,1
+REP-1051,2026-09-15 11:30:00,Main Campus,College of Teacher Education,CTE-105,Faculty,"Electric fan stopped working during class, and aircon makes a loud rattling noise and also wall outlet has no power.",Electrical,Low,Resolved,11
+REP-1052,2026-09-15 12:05:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Whiteboard frame is broken and the eraser tray fell off.,Furniture & Fixtures,Medium,Resolved,6
+REP-1053,2026-09-15 12:50:00,Main Campus,College of Teacher Education,CTE-105,Student,"Ceiling board shows water stains from a roof leak, and window glass is cracked.",Structural/Civil,High,Resolved,2
+REP-1054,2026-09-15 13:20:00,Main Campus,College of Teacher Education,CTE-101,Faculty,Whiteboard is heavily stained and cannot be erased.,Furniture & Fixtures,Low,Resolved,9
+REP-1055,2026-09-15 15:45:00,Main Campus,Science Laboratory Building,SLB-302,Student,Ceiling fan is making a loud grinding noise and wobbling.,Electrical,Medium,Resolved,4
+REP-1056,2026-09-15 16:20:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Projector mount is loose.,IT & Audio-Visual,Medium,Resolved,4
+REP-1057,2026-09-16 07:50:00,Main Campus,Science Laboratory Building,SLB-301,Student,"Floor tiles are broken near the entrance, plus wall outlet has no power.",Structural/Civil,Medium,Resolved,8
+REP-1058,2026-09-16 08:15:00,Main Campus,College of Arts & Sciences,CAS-101,Student,"Exhaust fan is busted and makes a burning smell, plus wall switch sparks slightly when turned on.",Electrical,Critical,Resolved,2
+REP-1059,2026-09-16 08:20:00,Main Campus,College of Teacher Education,CTE-105,Student,"Fluorescent bulb burned out again, and wi-Fi access point in the room keeps disconnecting.",Electrical,High,Resolved,2
+REP-1060,2026-09-16 09:20:00,Main Campus,Science Laboratory Building,SLB-302,Faculty,Exposed electrical wiring near the back counter.,Electrical,High,Resolved,4
+REP-1061,2026-09-16 10:20:00,Main Campus,College of Agriculture,CA-204,Faculty,Aircon will not turn on and the remote is not responding.,HVAC/Ventilation,Medium,In Progress,
+REP-1062,2026-09-16 11:15:00,Main Campus,College of Arts & Sciences,CAS-201,Student,Electric fan stopped working during class and also wall outlet is loose and the plate is cracked.,Electrical,Critical,Resolved,2
+REP-1063,2026-09-16 12:15:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,"Smart TV screen flickers, and extension cord is exposed and the socket is hot, plus projector will not turn on.",IT & Audio-Visual,Critical,Resolved,2
+REP-1064,2026-09-16 12:20:00,Main Campus,College of Teacher Education,CTE-202,Faculty,Aircon makes a loud rattling noise.,HVAC/Ventilation,Medium,Resolved,4
+REP-1065,2026-09-16 12:55:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Three wooden armchairs have broken backrests and loose screws.,Furniture & Fixtures,Medium,Resolved,5
+REP-1066,2026-09-16 16:20:00,Main Campus,Science Laboratory Building,SLB-101,Student,Fluorescent bulb burned out again.,Electrical,Medium,Resolved,4
+REP-1067,2026-09-17 07:20:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Faculty,"Projector will not turn on, plus whiteboard is heavily stained and cannot be erased.",IT & Audio-Visual,High,Resolved,4
+REP-1068,2026-09-17 09:40:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Window glass is cracked; fluorescent light near the board is flickering.,Structural/Civil,Critical,Resolved,1
+REP-1069,2026-09-17 11:00:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Wall switch sparks slightly when turned on and also fluorescent bulb burned out again.,Electrical,Critical,Resolved,2
+REP-1070,2026-09-18 09:05:00,Main Campus,College of Arts & Sciences,CAS-108,Student,Wi-Fi access point in the room keeps disconnecting.,IT & Audio-Visual,Medium,Resolved,3
+REP-1071,2026-09-18 09:55:00,Main Campus,Science Laboratory Building,SLB-302,Student,Floor drain is clogged.,Plumbing,Critical,Pending,
+REP-1072,2026-09-18 10:00:00,Main Campus,College of Arts & Sciences,CAS-201,Student,LAN port at the teacher's station is dead.,IT & Audio-Visual,Medium,Resolved,8
+REP-1073,2026-09-18 10:40:00,Main Campus,College of Agriculture,CA-202,Student,Aircon will not turn on and the remote is not responding.,HVAC/Ventilation,High,Resolved,5
+REP-1074,2026-09-18 12:45:00,Main Campus,College of Engineering & Info Tech,CEIT-202,Faculty,Electric fan stopped working during class.,Electrical,Low,Resolved,6
+REP-1075,2026-09-19 09:00:00,Main Campus,College of Agriculture,CA-205,Student,Doorknob is jammed from the inside.,Structural/Civil,Medium,Resolved,3
+REP-1076,2026-09-19 09:20:00,Main Campus,College of Agriculture,CA-205,Faculty,Projector mount is loose and also smart TV screen flickers.,IT & Audio-Visual,Medium,Resolved,5
+REP-1077,2026-09-19 16:55:00,Main Campus,College of Arts & Sciences,CAS-102,Faculty,Door hinge is broken and the door cannot close properly.,Structural/Civil,Critical,Resolved,1
+REP-1078,2026-09-21 11:40:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Teacher's table drawer is stuck and the table top is damaged.,Furniture & Fixtures,Medium,Resolved,5
+REP-1079,2026-09-21 13:45:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Projector mount is loose.,IT & Audio-Visual,Medium,Resolved,4
+REP-1080,2026-09-22 07:05:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,Wall outlet is loose and the plate is cracked.,Electrical,High,Resolved,4
+REP-1081,2026-09-22 07:20:00,Main Campus,College of Agriculture,CA-204,Faculty,Extension cord is exposed and the socket is hot.,Electrical,High,Resolved,15
+REP-1082,2026-09-22 09:15:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,"Chalkboard surface is peeling, plus ceiling panel is sagging and about to fall.",Furniture & Fixtures,Critical,Resolved,3
+REP-1083,2026-09-22 11:05:00,Main Campus,College of Agriculture,CA-204,Faculty,Exhaust fan does not pull air and the room feels stuffy.,HVAC/Ventilation,High,Resolved,4
+REP-1084,2026-09-22 12:20:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Faculty,Five plastic monobloc chairs are cracked.,Furniture & Fixtures,Low,Resolved,8
+REP-1085,2026-09-23 16:45:00,Main Campus,College of Teacher Education,CTE-105,Faculty,"Exhaust fan does not pull air and the room feels stuffy, and wall fan oscillation is stuck and the room is too hot.",HVAC/Ventilation,Critical,Resolved,2
+REP-1086,2026-09-24 13:20:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Teacher's table drawer is stuck and the table top is damaged and also five plastic monobloc chairs are cracked.,Furniture & Fixtures,Low,Resolved,9
+REP-1087,2026-09-24 14:00:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Three wooden armchairs have broken backrests and loose screws; floor tiles are broken near the entrance.,Furniture & Fixtures,Low,Resolved,8
+REP-1088,2026-09-25 08:20:00,Main Campus,College of Engineering & Info Tech,CEIT-301,Student,"Aircon dripping water again, plus exhaust fan does not pull air and the room feels stuffy and also fluorescent bulb burned out again.",HVAC/Ventilation,Medium,Resolved,7
+REP-1089,2026-09-25 12:00:00,Main Campus,Science Laboratory Building,SLB-102,Student,"Floor drain is clogged, plus faucet at the lab sink is leaking continuously.",Plumbing,Critical,Resolved,1
+REP-1090,2026-09-25 13:15:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,Projector image is blurry and dim.,IT & Audio-Visual,Low,Resolved,6
+REP-1091,2026-09-25 13:20:00,Main Campus,College of Teacher Education,CTE-202,Student,Fluorescent bulb burned out again; doorknob is jammed from the inside.,Electrical,High,Resolved,4
+REP-1092,2026-09-26 12:25:00,Main Campus,College of Arts & Sciences,CAS-108,Student,Ceiling board shows water stains from a roof leak; door hinge is broken and the door cannot close properly.,Structural/Civil,Critical,Resolved,12
+REP-1093,2026-09-26 15:00:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Faculty,"Chalkboard surface is peeling, plus smart TV screen flickers.",Furniture & Fixtures,Medium,Resolved,5
+REP-1094,2026-09-26 16:45:00,Main Campus,College of Arts & Sciences,CAS-108,Student,Student desk leg is loose.,Furniture & Fixtures,High,Resolved,4
+REP-1095,2026-09-28 08:10:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Whiteboard frame is broken and the eraser tray fell off and also aircon is leaking water.,Furniture & Fixtures,High,Resolved,3
+REP-1096,2026-09-28 10:55:00,Main Campus,College of Arts & Sciences,CAS-108,Student,Smart TV screen flickers; electric fan stopped working during class.,IT & Audio-Visual,Medium,Resolved,6
+REP-1097,2026-09-28 11:50:00,Main Campus,Science Laboratory Building,SLB-303,Student,No water coming from the faucet.,Plumbing,Medium,Resolved,5
+REP-1098,2026-09-28 12:15:00,Main Campus,College of Teacher Education,CTE-101,Student,Circuit breaker keeps tripping.,Electrical,High,Resolved,2
+REP-1099,2026-09-28 13:50:00,Main Campus,College of Teacher Education,CTE-101,Student,Window glass is cracked; doorknob is jammed from the inside; exhaust fan is busted and makes a burning smell.,Structural/Civil,Critical,Resolved,2
+REP-1100,2026-09-28 14:15:00,Main Campus,College of Teacher Education,CTE-101,Student,Five plastic monobloc chairs are cracked.,Furniture & Fixtures,Low,Resolved,12
+REP-1101,2026-09-29 10:25:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Projector HDMI port is damaged.,IT & Audio-Visual,High,Resolved,4
+REP-1102,2026-09-30 07:30:00,Main Campus,College of Arts & Sciences,CAS-201,Faculty,Smart TV screen flickers.,IT & Audio-Visual,High,Resolved,4
+REP-1103,2026-09-30 13:50:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,"Floor drain is clogged; lights in the back rows will not turn on, plus no water coming from the faucet.",Plumbing,Critical,Resolved,1
+REP-1104,2026-09-30 15:20:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Faculty,Ceiling fan is making a loud grinding noise and wobbling and also wall outlet has no power.,Electrical,Medium,Resolved,4
+REP-1105,2026-09-30 15:55:00,Main Campus,College of Teacher Education,CTE-105,Student,Wall fan oscillation is stuck and the room is too hot; extension cord is exposed and the socket is hot.,HVAC/Ventilation,High,Resolved,5
+REP-1106,2026-10-01 07:40:00,Main Campus,Science Laboratory Building,SLB-302,Faculty,Floor drain is clogged and also wall fan oscillation is stuck and the room is too hot.,Plumbing,High,Resolved,4
+REP-1107,2026-10-01 10:55:00,Main Campus,College of Arts & Sciences,CAS-201,Faculty,Ceiling fan is making a loud grinding noise and wobbling.,Electrical,High,Resolved,2
+REP-1108,2026-10-01 12:30:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Three wooden armchairs have broken backrests and loose screws.,Furniture & Fixtures,High,Resolved,3
+REP-1109,2026-10-01 13:10:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Several chairs are missing screws and wobble.,Furniture & Fixtures,Medium,Resolved,5
+REP-1110,2026-10-01 14:25:00,Main Campus,Science Laboratory Building,SLB-301,Student,Faucet at the lab sink is leaking continuously.,Plumbing,Medium,Resolved,7
+REP-1111,2026-10-01 14:30:00,Main Campus,College of Agriculture,CA-202,Student,Electric fan stopped working during class and also fluorescent bulb burned out again.,Electrical,Medium,Resolved,7
+REP-1112,2026-10-01 15:05:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Wall fan oscillation is stuck and the room is too hot.,HVAC/Ventilation,High,Resolved,3
+REP-1113,2026-10-01 15:30:00,Main Campus,College of Agriculture,CA-202,Faculty,Fluorescent bulb burned out again.,Electrical,High,Resolved,2
+REP-1114,2026-10-01 15:55:00,Main Campus,College of Teacher Education,CTE-203,Faculty,Door hinge is broken and the door cannot close properly.,Structural/Civil,High,Resolved,3
+REP-1115,2026-10-01 16:15:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Three wooden armchairs have broken backrests and loose screws.,Furniture & Fixtures,Medium,Resolved,7
+REP-1116,2026-10-02 07:05:00,Main Campus,College of Teacher Education,CTE-101,Student,"Wi-Fi access point in the room keeps disconnecting, plus projector will not turn on.",IT & Audio-Visual,High,Resolved,3
+REP-1117,2026-10-02 08:25:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Chalkboard surface is peeling; student desk leg is loose.,Furniture & Fixtures,Medium,Resolved,5
+REP-1118,2026-10-02 09:25:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,"Five plastic monobloc chairs are cracked, plus chalkboard surface is peeling.",Furniture & Fixtures,Low,Resolved,9
+REP-1119,2026-10-02 12:50:00,Main Campus,College of Arts & Sciences,CAS-102,Faculty,Wall outlet is loose and the plate is cracked.,Electrical,Medium,Resolved,6
+REP-1120,2026-10-02 13:25:00,Main Campus,Science Laboratory Building,SLB-302,Faculty,Water pipe is leaking near the wall.,Plumbing,Medium,Resolved,6
+REP-1121,2026-10-02 14:40:00,Main Campus,Science Laboratory Building,SLB-302,Student,No water coming from the faucet.,Plumbing,Medium,Resolved,7
+REP-1122,2026-10-02 15:35:00,Main Campus,College of Agriculture,CA-204,Student,Exhaust fan is busted and makes a burning smell.,Electrical,High,Resolved,22
+REP-1123,2026-10-03 08:40:00,Main Campus,College of Agriculture,CA-204,Faculty,Lights in the back rows will not turn on.,Electrical,Low,Resolved,5
+REP-1124,2026-10-03 10:20:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,"Smart TV screen flickers, and projector will not turn on.",IT & Audio-Visual,High,Resolved,4
+REP-1125,2026-10-03 15:35:00,Main Campus,College of Agriculture,CA-204,Faculty,Ceiling fan is making a loud grinding noise and wobbling.,Electrical,Low,Resolved,8
+REP-1126,2026-10-05 07:05:00,Main Campus,Science Laboratory Building,SLB-303,Faculty,Exposed electrical wiring near the back counter and also exhaust fan is busted and makes a burning smell.,Electrical,High,Resolved,3
+REP-1127,2026-10-05 07:30:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Extension cord is exposed and the socket is hot.,Electrical,Critical,Resolved,2
+REP-1128,2026-10-05 08:25:00,Main Campus,College of Arts & Sciences,CAS-108,Student,"Projector will not turn on, and two ceiling fans are not spinning.",IT & Audio-Visual,Medium,Resolved,3
+REP-1129,2026-10-05 10:55:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,Fluorescent bulb burned out again; ceiling fan is making a loud grinding noise and wobbling.,Electrical,High,Resolved,3
+REP-1130,2026-10-05 11:20:00,Main Campus,Science Laboratory Building,SLB-102,Student,Water pipe is leaking near the wall.,Plumbing,Low,Resolved,12
+REP-1131,2026-10-06 09:05:00,Main Campus,College of Teacher Education,CTE-105,Student,Ceiling fan is making a loud grinding noise and wobbling.,Electrical,Critical,Resolved,1
+REP-1132,2026-10-06 10:15:00,Main Campus,College of Teacher Education,CTE-101,Student,Projector will not turn on.,IT & Audio-Visual,Medium,Resolved,8
+REP-1133,2026-10-06 11:20:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,Window glass is cracked.,Structural/Civil,Critical,Resolved,3
+REP-1134,2026-10-06 11:25:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Wall outlet has no power.,Electrical,Critical,Resolved,1
+REP-1135,2026-10-06 11:35:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,Wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,2
+REP-1136,2026-10-06 12:00:00,Main Campus,College of Agriculture,CA-204,Faculty,Aircon makes a loud rattling noise; circuit breaker keeps tripping.,HVAC/Ventilation,Critical,Resolved,2
+REP-1137,2026-10-06 12:15:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Five plastic monobloc chairs are cracked.,Furniture & Fixtures,Low,Resolved,11
+REP-1138,2026-10-06 13:10:00,Main Campus,College of Agriculture,CA-202,Faculty,Wall outlet has no power and also wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,1
+REP-1139,2026-10-06 14:35:00,Main Campus,College of Arts & Sciences,CAS-102,Faculty,Ceiling fan is making a loud grinding noise and wobbling.,Electrical,Low,Resolved,8
+REP-1140,2026-10-06 16:55:00,Main Campus,College of Agriculture,CA-205,Student,Projector will not turn on.,IT & Audio-Visual,High,Resolved,2
+REP-1141,2026-10-07 10:45:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,Whiteboard is heavily stained and cannot be erased.,Furniture & Fixtures,Medium,Resolved,7
+REP-1142,2026-10-07 10:50:00,Main Campus,College of Agriculture,CA-101,Student,Several chairs are missing screws and wobble; chalkboard surface is peeling.,Furniture & Fixtures,Medium,Resolved,6
+REP-1143,2026-10-07 13:30:00,Main Campus,College of Teacher Education,CTE-201,Faculty,Wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,1
+REP-1144,2026-10-07 13:40:00,Main Campus,College of Teacher Education,CTE-201,Student,"Wall switch sparks slightly when turned on, plus fluorescent light near the board is flickering.",Electrical,Critical,Resolved,1
+REP-1145,2026-10-07 13:45:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Whiteboard is heavily stained and cannot be erased.,Furniture & Fixtures,Medium,Resolved,3
+REP-1146,2026-10-07 13:45:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Extension cord is exposed and the socket is hot; exhaust fan is busted and makes a burning smell and also aircon is blowing warm air.,Electrical,Critical,Resolved,2
+REP-1147,2026-10-08 11:50:00,Main Campus,College of Agriculture,CA-204,Student,Aircon dripping water again.,HVAC/Ventilation,Critical,Resolved,2
+REP-1148,2026-10-08 12:50:00,Main Campus,College of Teacher Education,CTE-202,Student,Wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,2
+REP-1149,2026-10-08 13:35:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Broken window lock and also teacher's table drawer is stuck and the table top is damaged and also ceiling board shows water stains from a roof leak.,Structural/Civil,Medium,Resolved,4
+REP-1150,2026-10-08 15:25:00,Main Campus,College of Agriculture,CA-204,Faculty,Wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,2
+REP-1151,2026-10-09 08:05:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Electric fan stopped working during class.,Electrical,Medium,Resolved,5
+REP-1152,2026-10-09 08:50:00,Main Campus,College of Agriculture,CA-204,Student,Exhaust fan is busted and makes a burning smell; doorknob is jammed from the inside.,Electrical,High,Resolved,20
+REP-1153,2026-10-09 10:50:00,Main Campus,College of Arts & Sciences,CAS-101,Faculty,Lights in the back rows will not turn on and also exposed electrical wiring near the back counter.,Electrical,Critical,Resolved,1
+REP-1154,2026-10-09 11:05:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Teacher's table drawer is stuck and the table top is damaged.,Furniture & Fixtures,High,Resolved,3
+REP-1155,2026-10-09 11:40:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,Projector image is blurry and dim.,IT & Audio-Visual,High,Resolved,16
+REP-1156,2026-10-09 11:45:00,Main Campus,College of Arts & Sciences,CAS-202,Faculty,Two ceiling fans are not spinning.,Electrical,Medium,Resolved,6
+REP-1157,2026-10-09 15:30:00,Main Campus,College of Teacher Education,CTE-203,Faculty,Whiteboard is heavily stained and cannot be erased and also teacher's table drawer is stuck and the table top is damaged.,Furniture & Fixtures,Low,Resolved,5
+REP-1158,2026-10-10 11:25:00,Main Campus,Science Laboratory Building,SLB-302,Student,Exhaust fan does not pull air and the room feels stuffy.,HVAC/Ventilation,Medium,In Progress,
+REP-1159,2026-10-10 13:05:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,LAN port at the teacher's station is dead and also ceiling panel is sagging and about to fall.,IT & Audio-Visual,High,Resolved,4
+REP-1160,2026-10-10 14:05:00,Main Campus,College of Arts & Sciences,CAS-102,Faculty,Window glass is cracked.,Structural/Civil,Medium,Resolved,15
+REP-1161,2026-10-10 14:15:00,Main Campus,College of Arts & Sciences,CAS-201,Student,Ceiling fan is making a loud grinding noise and wobbling.,Electrical,Medium,Resolved,7
+REP-1162,2026-10-10 15:20:00,Main Campus,Science Laboratory Building,SLB-101,Faculty,Aircon makes a loud rattling noise.,HVAC/Ventilation,Medium,Resolved,4
+REP-1163,2026-10-10 15:45:00,Main Campus,Science Laboratory Building,SLB-303,Faculty,"Circuit breaker keeps tripping, plus water pipe is leaking near the wall.",Electrical,High,Resolved,3
+REP-1164,2026-10-12 07:45:00,Main Campus,College of Teacher Education,CTE-105,Student,"Floor tiles are broken near the entrance, and exhaust fan is busted and makes a burning smell.",Structural/Civil,Critical,Resolved,3
+REP-1165,2026-10-12 07:55:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,"Teacher's table drawer is stuck and the table top is damaged, plus wall switch sparks slightly when turned on.",Furniture & Fixtures,Critical,Resolved,18
+REP-1166,2026-10-12 09:35:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Three wooden armchairs have broken backrests and loose screws.,Furniture & Fixtures,High,Resolved,4
+REP-1167,2026-10-12 09:40:00,Main Campus,Science Laboratory Building,SLB-301,Faculty,Aircon is blowing warm air.,HVAC/Ventilation,Medium,Resolved,7
+REP-1168,2026-10-12 12:00:00,Main Campus,College of Teacher Education,CTE-201,Faculty,Aircon will not turn on and the remote is not responding.,HVAC/Ventilation,High,Resolved,4
+REP-1169,2026-10-12 13:10:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,Three wooden armchairs have broken backrests and loose screws.,Furniture & Fixtures,High,Resolved,4
+REP-1170,2026-10-12 16:10:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,Whiteboard is heavily stained and cannot be erased and also teacher's table drawer is stuck and the table top is damaged.,Furniture & Fixtures,Medium,Resolved,7
+REP-1171,2026-10-13 08:10:00,Main Campus,College of Engineering & Info Tech,CEIT-301,Student,Aircon is blowing warm air.,HVAC/Ventilation,Medium,Resolved,6
+REP-1172,2026-10-13 09:30:00,Main Campus,College of Teacher Education,CTE-201,Faculty,Aircon makes a loud rattling noise.,HVAC/Ventilation,Medium,Resolved,7
+REP-1173,2026-10-13 11:10:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Doorknob is jammed from the inside.,Structural/Civil,Medium,Resolved,8
+REP-1174,2026-10-13 11:30:00,Main Campus,College of Teacher Education,CTE-201,Faculty,Projector will not turn on; fluorescent bulb burned out again.,IT & Audio-Visual,High,Resolved,13
+REP-1175,2026-10-13 11:40:00,Main Campus,Science Laboratory Building,SLB-302,Faculty,Exposed electrical wiring near the back counter; water pipe is leaking near the wall.,Electrical,Critical,Resolved,1
+REP-1176,2026-10-13 12:15:00,Main Campus,College of Agriculture,CA-204,Student,Fluorescent bulb burned out again and also exposed electrical wiring near the back counter.,Electrical,Critical,Resolved,1
+REP-1177,2026-10-13 12:40:00,Main Campus,Science Laboratory Building,SLB-301,Faculty,"Water pipe is leaking near the wall, plus aircon is blowing warm air, and faucet at the lab sink is leaking continuously.",Plumbing,High,Resolved,2
+REP-1178,2026-10-13 14:40:00,Main Campus,College of Teacher Education,CTE-201,Student,Aircon is leaking water.,HVAC/Ventilation,Medium,Resolved,8
+REP-1179,2026-10-13 15:15:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,Lights in the back rows will not turn on.,Electrical,Medium,Resolved,4
+REP-1180,2026-10-14 08:35:00,Main Campus,Science Laboratory Building,SLB-303,Student,"Fluorescent bulb burned out again, plus faucet at the lab sink is leaking continuously.",Electrical,Critical,Resolved,1
+REP-1181,2026-10-14 09:05:00,Main Campus,College of Arts & Sciences,CAS-201,Student,Projector image is blurry and dim.,IT & Audio-Visual,Medium,Resolved,24
+REP-1182,2026-10-14 09:35:00,Main Campus,College of Teacher Education,CTE-101,Faculty,"Projector mount is loose, and circuit breaker keeps tripping.",IT & Audio-Visual,Critical,Resolved,1
+REP-1183,2026-10-14 12:20:00,Main Campus,College of Agriculture,CA-201,Student,Wall outlet has no power.,Electrical,Critical,Resolved,1
+REP-1184,2026-10-14 12:45:00,Main Campus,College of Engineering & Info Tech,CEIT-301,Faculty,Projector HDMI port is damaged; aircon will not turn on and the remote is not responding.,IT & Audio-Visual,Medium,Resolved,6
+REP-1185,2026-10-14 15:40:00,Main Campus,College of Agriculture,CA-202,Student,Wall fan oscillation is stuck and the room is too hot.,HVAC/Ventilation,Critical,Resolved,2
+REP-1186,2026-10-15 07:05:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,"Ceiling board shows water stains from a roof leak, and floor tiles are broken near the entrance.",Structural/Civil,High,Resolved,4
+REP-1187,2026-10-15 09:20:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Faculty,Projector HDMI port is damaged.,IT & Audio-Visual,High,Resolved,12
+REP-1188,2026-10-15 11:05:00,Main Campus,College of Agriculture,CA-205,Student,Wi-Fi access point in the room keeps disconnecting.,IT & Audio-Visual,High,Resolved,3
+REP-1189,2026-10-15 12:50:00,Main Campus,Science Laboratory Building,SLB-303,Faculty,Aircon dripping water again.,HVAC/Ventilation,Critical,Resolved,1
+REP-1190,2026-10-15 14:45:00,Main Campus,Science Laboratory Building,SLB-303,Student,Lights in the back rows will not turn on.,Electrical,Medium,Resolved,7
+REP-1191,2026-10-15 14:45:00,Main Campus,College of Agriculture,CA-202,Faculty,Aircon is blowing warm air.,HVAC/Ventilation,Critical,Resolved,2
+REP-1192,2026-10-15 15:45:00,Main Campus,Science Laboratory Building,SLB-301,Student,Fluorescent bulb burned out again.,Electrical,Critical,Resolved,2
+REP-1193,2026-10-15 16:10:00,Main Campus,College of Agriculture,CA-101,Faculty,Door hinge is broken and the door cannot close properly; ceiling panel is sagging and about to fall.,Structural/Civil,High,Resolved,4
+REP-1194,2026-10-16 07:35:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Three wooden armchairs have broken backrests and loose screws and also teacher's table drawer is stuck and the table top is damaged.,Furniture & Fixtures,Medium,Resolved,5
+REP-1195,2026-10-16 09:05:00,Main Campus,Science Laboratory Building,SLB-302,Faculty,"Wall fan oscillation is stuck and the room is too hot; aircon is blowing warm air, plus no water coming from the faucet.",HVAC/Ventilation,Critical,Resolved,2
+REP-1196,2026-10-16 11:00:00,Main Campus,Science Laboratory Building,SLB-303,Faculty,Lights in the back rows will not turn on; two ceiling fans are not spinning.,Electrical,Critical,Resolved,2
+REP-1197,2026-10-16 11:20:00,Main Campus,College of Agriculture,CA-205,Faculty,Five plastic monobloc chairs are cracked.,Furniture & Fixtures,Low,Resolved,9
+REP-1198,2026-10-16 14:25:00,Main Campus,College of Teacher Education,CTE-105,Faculty,"Wall outlet has no power, and exhaust fan does not pull air and the room feels stuffy.",Electrical,High,Resolved,4
+REP-1199,2026-10-16 16:55:00,Main Campus,College of Arts & Sciences,CAS-101,Student,"Electric fan stopped working during class, plus aircon dripping water again.",Electrical,High,Resolved,2
+REP-1200,2026-10-17 07:40:00,Main Campus,College of Agriculture,CA-202,Faculty,Aircon makes a loud rattling noise and also two ceiling fans are not spinning.,HVAC/Ventilation,Critical,Resolved,3
+REP-1201,2026-10-17 08:00:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,Wall outlet has no power.,Electrical,Critical,Resolved,2
+REP-1202,2026-10-17 08:05:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,"Wall switch sparks slightly when turned on, plus two ceiling fans are not spinning.",Electrical,High,Resolved,4
+REP-1203,2026-10-17 08:25:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Projector HDMI port is damaged.,IT & Audio-Visual,Medium,Resolved,7
+REP-1204,2026-10-17 13:20:00,Main Campus,College of Teacher Education,CTE-105,Student,"Aircon is blowing warm air, and wall fan oscillation is stuck and the room is too hot.",HVAC/Ventilation,Critical,Resolved,20
+REP-1205,2026-10-19 07:15:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,"Projector image is blurry and dim, and wall switch sparks slightly when turned on; lights in the back rows will not turn on.",IT & Audio-Visual,Critical,Resolved,1
+REP-1206,2026-10-19 08:15:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,Wall outlet is loose and the plate is cracked.,Electrical,High,Resolved,2
+REP-1207,2026-10-19 08:30:00,Main Campus,College of Arts & Sciences,CAS-202,Student,"Exhaust fan is busted and makes a burning smell, plus wall outlet is loose and the plate is cracked, and electric fan stopped working during class.",Electrical,Critical,Resolved,1
+REP-1208,2026-10-19 11:55:00,Main Campus,College of Arts & Sciences,CAS-102,Faculty,Ceiling panel is sagging and about to fall.,Structural/Civil,Critical,Resolved,4
+REP-1209,2026-10-19 14:20:00,Main Campus,College of Teacher Education,CTE-202,Student,"Extension cord is exposed and the socket is hot, plus two ceiling fans are not spinning and also projector HDMI port is damaged.",Electrical,Critical,Resolved,1
+REP-1210,2026-10-20 07:20:00,Main Campus,College of Agriculture,CA-201,Student,Fluorescent light near the board is flickering.,Electrical,Critical,Resolved,1
+REP-1211,2026-10-20 09:00:00,Main Campus,College of Teacher Education,CTE-105,Student,Fluorescent light near the board is flickering; wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,1
+REP-1212,2026-10-20 11:05:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,"Floor tiles are broken near the entrance, and fluorescent bulb burned out again.",Structural/Civil,Medium,Resolved,26
+REP-1213,2026-10-20 11:30:00,Main Campus,Science Laboratory Building,SLB-303,Faculty,Water pipe is leaking near the wall.,Plumbing,High,Resolved,23
+REP-1214,2026-10-20 14:05:00,Main Campus,Science Laboratory Building,SLB-302,Student,"Electric fan stopped working during class, plus fluorescent light near the board is flickering.",Electrical,High,Resolved,3
+REP-1215,2026-10-21 07:25:00,Main Campus,College of Teacher Education,CTE-202,Faculty,Wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,1
+REP-1216,2026-10-21 12:35:00,Main Campus,Science Laboratory Building,SLB-102,Student,No water coming from the faucet.,Plumbing,High,Resolved,19
+REP-1217,2026-10-21 16:00:00,Main Campus,College of Arts & Sciences,CAS-102,Student,Whiteboard frame is broken and the eraser tray fell off; five plastic monobloc chairs are cracked.,Furniture & Fixtures,Medium,Resolved,6
+REP-1218,2026-10-21 16:25:00,Main Campus,College of Teacher Education,CTE-202,Student,Aircon is leaking water.,HVAC/Ventilation,Medium,Resolved,4
+REP-1219,2026-10-22 10:10:00,Main Campus,College of Agriculture,CA-202,Student,"Aircon will not turn on and the remote is not responding, plus projector will not turn on.",HVAC/Ventilation,Medium,Resolved,4
+REP-1220,2026-10-22 10:25:00,Main Campus,College of Teacher Education,CTE-203,Student,Several chairs are missing screws and wobble; ceiling fan is making a loud grinding noise and wobbling.,Furniture & Fixtures,Low,Resolved,7
+REP-1221,2026-10-22 14:00:00,Main Campus,College of Agriculture,CA-205,Student,"Window glass is cracked, plus lights in the back rows will not turn on.",Structural/Civil,High,Resolved,4
+REP-1222,2026-10-22 15:20:00,Main Campus,College of Agriculture,CA-205,Student,Fluorescent bulb burned out again.,Electrical,Medium,Resolved,6
+REP-1223,2026-10-23 08:00:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,Floor drain is clogged.,Plumbing,High,Resolved,4
+REP-1224,2026-10-23 09:10:00,Main Campus,College of Arts & Sciences,CAS-108,Student,"Fluorescent light near the board is flickering, and ceiling board shows water stains from a roof leak.",Electrical,Medium,Resolved,15
+REP-1225,2026-10-23 16:50:00,Main Campus,College of Arts & Sciences,CAS-201,Faculty,"Whiteboard is heavily stained and cannot be erased, and lights in the back rows will not turn on.",Furniture & Fixtures,Medium,In Progress,
+REP-1226,2026-10-24 07:00:00,Main Campus,College of Teacher Education,CTE-201,Student,Aircon is blowing warm air.,HVAC/Ventilation,Medium,Resolved,4
+REP-1227,2026-10-24 09:10:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,Two ceiling fans are not spinning.,Electrical,High,Resolved,3
+REP-1228,2026-10-24 09:30:00,Main Campus,College of Teacher Education,CTE-105,Student,"Lights in the back rows will not turn on, and aircon will not turn on and the remote is not responding.",Electrical,Low,Resolved,11
+REP-1229,2026-10-24 09:45:00,Main Campus,College of Agriculture,CA-101,Student,Ceiling panel is sagging and about to fall and also teacher's table drawer is stuck and the table top is damaged.,Structural/Civil,Critical,Resolved,2
+REP-1230,2026-10-24 12:05:00,Main Campus,College of Arts & Sciences,CAS-108,Student,"Smart TV screen flickers, and wi-Fi access point in the room keeps disconnecting.",IT & Audio-Visual,High,Resolved,3
+REP-1231,2026-10-24 12:40:00,Main Campus,College of Arts & Sciences,CAS-202,Student,Ceiling fan is making a loud grinding noise and wobbling; extension cord is exposed and the socket is hot.,Electrical,Critical,Resolved,1
+REP-1232,2026-10-24 12:50:00,Main Campus,Science Laboratory Building,SLB-101,Student,Ceiling panel is sagging and about to fall.,Structural/Civil,Critical,Resolved,2
+REP-1233,2026-10-24 13:05:00,Main Campus,College of Teacher Education,CTE-203,Student,Whiteboard is heavily stained and cannot be erased and also several chairs are missing screws and wobble.,Furniture & Fixtures,Low,Resolved,10
+REP-1234,2026-10-24 13:40:00,Main Campus,College of Arts & Sciences,CAS-101,Faculty,Exhaust fan does not pull air and the room feels stuffy.,HVAC/Ventilation,Medium,Resolved,5
+REP-1235,2026-10-24 14:40:00,Main Campus,College of Agriculture,CA-202,Faculty,"Aircon is leaking water, plus wall fan oscillation is stuck and the room is too hot.",HVAC/Ventilation,Critical,Resolved,2
+REP-1236,2026-10-26 13:00:00,Main Campus,Science Laboratory Building,SLB-102,Student,Broken window lock.,Structural/Civil,Medium,Resolved,6
+REP-1237,2026-10-26 13:05:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,Student desk leg is loose.,Furniture & Fixtures,Low,Resolved,7
+REP-1238,2026-10-26 14:25:00,Main Campus,College of Arts & Sciences,CAS-101,Faculty,Aircon dripping water again.,HVAC/Ventilation,High,Resolved,2
+REP-1239,2026-10-27 07:35:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Exposed electrical wiring near the back counter.,Electrical,Critical,Resolved,1
+REP-1240,2026-10-27 09:05:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,Two ceiling fans are not spinning; student desk leg is loose.,Electrical,Low,Resolved,8
+REP-1241,2026-10-27 11:35:00,Main Campus,College of Teacher Education,CTE-201,Faculty,Exhaust fan does not pull air and the room feels stuffy.,HVAC/Ventilation,Critical,Resolved,2
+REP-1242,2026-10-27 15:25:00,Main Campus,Science Laboratory Building,SLB-102,Student,"Door hinge is broken and the door cannot close properly, and exhaust fan is busted and makes a burning smell.",Structural/Civil,High,Resolved,2
+REP-1243,2026-10-27 16:25:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Ceiling board shows water stains from a roof leak; several chairs are missing screws and wobble.,Structural/Civil,Critical,Resolved,1
+REP-1244,2026-10-28 08:40:00,Main Campus,Science Laboratory Building,SLB-302,Student,Floor drain is clogged.,Plumbing,Medium,Resolved,6
+REP-1245,2026-10-28 10:20:00,Main Campus,College of Arts & Sciences,CAS-101,Faculty,Aircon is leaking water.,HVAC/Ventilation,Low,Resolved,12
+REP-1246,2026-10-28 11:00:00,Main Campus,College of Arts & Sciences,CAS-108,Student,Projector will not turn on.,IT & Audio-Visual,High,Resolved,4
+REP-1247,2026-10-28 12:15:00,Main Campus,College of Arts & Sciences,CAS-108,Student,Extension cord is exposed and the socket is hot; projector mount is loose.,Electrical,High,Resolved,4
+REP-1248,2026-10-28 13:35:00,Main Campus,College of Agriculture,CA-204,Student,Exhaust fan is busted and makes a burning smell and also lights in the back rows will not turn on.,Electrical,Critical,Resolved,2
+REP-1249,2026-10-28 13:55:00,Main Campus,Science Laboratory Building,SLB-302,Student,"Circuit breaker keeps tripping and also two ceiling fans are not spinning, and lights in the back rows will not turn on.",Electrical,Critical,Resolved,1
+REP-1250,2026-10-28 14:00:00,Main Campus,Science Laboratory Building,SLB-101,Student,Wall outlet has no power.,Electrical,Critical,Resolved,11
+REP-1251,2026-10-29 08:00:00,Main Campus,Science Laboratory Building,SLB-302,Faculty,Wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,20
+REP-1252,2026-10-29 08:35:00,Main Campus,Science Laboratory Building,SLB-303,Student,"No water coming from the faucet, and floor drain is clogged.",Plumbing,Medium,Resolved,6
+REP-1253,2026-10-29 09:00:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Lights in the back rows will not turn on.,Electrical,Medium,Resolved,6
+REP-1254,2026-10-29 11:20:00,Main Campus,College of Agriculture,CA-204,Faculty,Aircon makes a loud rattling noise and also exposed electrical wiring near the back counter.,HVAC/Ventilation,High,Resolved,3
+REP-1255,2026-10-29 11:45:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,Extension cord is exposed and the socket is hot and also projector HDMI port is damaged.,Electrical,Critical,Resolved,1
+REP-1256,2026-10-29 13:50:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Projector image is blurry and dim.,IT & Audio-Visual,Medium,Resolved,3
+REP-1257,2026-10-29 15:50:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Whiteboard is heavily stained and cannot be erased and also several chairs are missing screws and wobble.,Furniture & Fixtures,High,Resolved,2
+REP-1258,2026-10-30 08:30:00,Main Campus,College of Teacher Education,CTE-202,Faculty,Projector image is blurry and dim.,IT & Audio-Visual,Medium,Resolved,7
+REP-1259,2026-10-30 12:00:00,Main Campus,College of Agriculture,CA-202,Faculty,Lights in the back rows will not turn on.,Electrical,Critical,Resolved,2
+REP-1260,2026-10-31 08:20:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,Faucet at the lab sink is leaking continuously.,Plumbing,High,Resolved,4
+REP-1261,2026-10-31 09:10:00,Main Campus,College of Agriculture,CA-202,Student,"Aircon is blowing warm air, plus fluorescent light near the board is flickering.",HVAC/Ventilation,Critical,Resolved,2
+REP-1262,2026-10-31 10:05:00,Main Campus,College of Teacher Education,CTE-105,Student,"Wall outlet has no power, plus electric fan stopped working during class.",Electrical,High,Resolved,2
+REP-1263,2026-10-31 10:10:00,Main Campus,Science Laboratory Building,SLB-303,Student,"Faucet at the lab sink is leaking continuously, and water pipe is leaking near the wall.",Plumbing,Critical,Resolved,1
+REP-1264,2026-10-31 14:35:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,"Water pipe is leaking near the wall, plus wall outlet has no power.",Plumbing,High,Resolved,2
+REP-1265,2026-10-31 14:45:00,Main Campus,College of Arts & Sciences,CAS-202,Faculty,"Wall outlet is loose and the plate is cracked, and exhaust fan is busted and makes a burning smell.",Electrical,High,Resolved,3
+REP-1266,2026-10-31 16:55:00,Main Campus,Science Laboratory Building,SLB-102,Student,"Sink is cracked and drains slowly, plus floor drain is clogged.",Plumbing,High,Resolved,4
+REP-1267,2026-11-02 10:55:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,"Window glass is cracked, plus floor tiles are broken near the entrance.",Structural/Civil,Low,Pending,
+REP-1268,2026-11-02 11:40:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,"Aircon makes a loud rattling noise, and door hinge is broken and the door cannot close properly.",HVAC/Ventilation,High,Resolved,4
+REP-1269,2026-11-02 12:10:00,Main Campus,Science Laboratory Building,SLB-101,Student,"Aircon dripping water again, plus faucet at the lab sink is leaking continuously.",HVAC/Ventilation,Low,Resolved,7
+REP-1270,2026-11-02 12:20:00,Main Campus,College of Teacher Education,CTE-105,Student,Two ceiling fans are not spinning.,Electrical,High,Resolved,3
+REP-1271,2026-11-02 14:30:00,Main Campus,College of Arts & Sciences,CAS-201,Faculty,"Fluorescent bulb burned out again, and wall switch sparks slightly when turned on.",Electrical,Critical,Resolved,2
+REP-1272,2026-11-02 15:25:00,Main Campus,College of Agriculture,CA-205,Student,"Ceiling panel is sagging and about to fall, plus floor tiles are broken near the entrance; door hinge is broken and the door cannot close properly.",Structural/Civil,Critical,Resolved,2
+REP-1273,2026-11-02 15:50:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Teacher's table drawer is stuck and the table top is damaged; doorknob is jammed from the inside.,Furniture & Fixtures,Low,Resolved,7
+REP-1274,2026-11-03 07:05:00,Main Campus,College of Teacher Education,CTE-203,Student,Wall outlet is loose and the plate is cracked.,Electrical,High,Resolved,2
+REP-1275,2026-11-03 08:35:00,Main Campus,College of Agriculture,CA-201,Student,Broken window lock; doorknob is jammed from the inside.,Structural/Civil,Critical,Resolved,2
+REP-1276,2026-11-03 11:10:00,Main Campus,College of Arts & Sciences,CAS-201,Student,Whiteboard frame is broken and the eraser tray fell off.,Furniture & Fixtures,Medium,Resolved,5
+REP-1277,2026-11-03 12:15:00,Main Campus,College of Arts & Sciences,CAS-108,Student,LAN port at the teacher's station is dead.,IT & Audio-Visual,Medium,Resolved,7
+REP-1278,2026-11-04 08:35:00,Main Campus,College of Agriculture,CA-202,Student,Fluorescent light near the board is flickering and also ceiling fan is making a loud grinding noise and wobbling.,Electrical,High,Resolved,11
+REP-1279,2026-11-04 09:05:00,Main Campus,College of Agriculture,CA-204,Student,Lights in the back rows will not turn on.,Electrical,High,Resolved,2
+REP-1280,2026-11-04 12:30:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Whiteboard is heavily stained and cannot be erased and also five plastic monobloc chairs are cracked.,Furniture & Fixtures,Medium,Resolved,8
+REP-1281,2026-11-04 13:15:00,Main Campus,Science Laboratory Building,SLB-302,Student,Aircon dripping water again.,HVAC/Ventilation,Critical,Resolved,2
+REP-1282,2026-11-04 16:40:00,Main Campus,College of Engineering & Info Tech,CEIT-202,Student,Projector image is blurry and dim.,IT & Audio-Visual,Medium,Resolved,3
+REP-1283,2026-11-05 10:20:00,Main Campus,College of Teacher Education,CTE-101,Faculty,"Three wooden armchairs have broken backrests and loose screws, plus projector image is blurry and dim.",Furniture & Fixtures,Medium,Resolved,5
+REP-1284,2026-11-05 13:20:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Faculty,Projector HDMI port is damaged.,IT & Audio-Visual,Medium,Resolved,4
+REP-1285,2026-11-05 15:25:00,Main Campus,College of Agriculture,CA-202,Student,"Fluorescent bulb burned out again, and extension cord is exposed and the socket is hot.",Electrical,Critical,Resolved,2
+REP-1286,2026-11-05 15:30:00,Main Campus,Science Laboratory Building,SLB-303,Faculty,Aircon dripping water again.,HVAC/Ventilation,High,Resolved,2
+REP-1287,2026-11-06 10:00:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Wall outlet is loose and the plate is cracked.,Electrical,Critical,Resolved,2
+REP-1288,2026-11-06 10:35:00,Main Campus,College of Agriculture,CA-205,Student,Lights in the back rows will not turn on.,Electrical,Critical,Resolved,2
+REP-1289,2026-11-06 11:05:00,Main Campus,College of Teacher Education,CTE-105,Student,"Wall outlet has no power, and fluorescent bulb burned out again; exposed electrical wiring near the back counter.",Electrical,Critical,Resolved,1
+REP-1290,2026-11-06 11:10:00,Main Campus,College of Arts & Sciences,CAS-201,Student,Whiteboard is heavily stained and cannot be erased; several chairs are missing screws and wobble.,Furniture & Fixtures,Medium,Resolved,6
+REP-1291,2026-11-06 13:05:00,Main Campus,College of Agriculture,CA-201,Student,Wall outlet is loose and the plate is cracked.,Electrical,Critical,Resolved,1
+REP-1292,2026-11-06 13:15:00,Main Campus,College of Teacher Education,CTE-202,Faculty,Aircon makes a loud rattling noise.,HVAC/Ventilation,Medium,Resolved,4
+REP-1293,2026-11-06 15:20:00,Main Campus,College of Arts & Sciences,CAS-201,Faculty,"Broken window lock, plus lAN port at the teacher's station is dead.",Structural/Civil,Critical,Resolved,4
+REP-1294,2026-11-06 15:30:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Chalkboard surface is peeling.,Furniture & Fixtures,Medium,Resolved,7
+REP-1295,2026-11-06 15:30:00,Main Campus,College of Arts & Sciences,CAS-102,Student,Five plastic monobloc chairs are cracked.,Furniture & Fixtures,Medium,Resolved,6
+REP-1296,2026-11-07 07:00:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Faculty,Chalkboard surface is peeling.,Furniture & Fixtures,Low,Resolved,12
+REP-1297,2026-11-07 12:50:00,Main Campus,College of Agriculture,CA-205,Student,Ceiling fan is making a loud grinding noise and wobbling and also three wooden armchairs have broken backrests and loose screws.,Electrical,Medium,Resolved,3
+REP-1298,2026-11-07 13:20:00,Main Campus,College of Agriculture,CA-202,Student,Aircon is blowing warm air.,HVAC/Ventilation,High,Resolved,4
+REP-1299,2026-11-07 13:50:00,Main Campus,Science Laboratory Building,SLB-102,Student,Floor drain is clogged.,Plumbing,High,Resolved,4
+REP-1300,2026-11-07 14:00:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Lights in the back rows will not turn on.,Electrical,Critical,Resolved,1
+REP-1301,2026-11-07 14:15:00,Main Campus,College of Agriculture,CA-201,Faculty,Water pipe is leaking near the wall.,Plumbing,Critical,Resolved,1
+REP-1302,2026-11-09 08:35:00,Main Campus,College of Agriculture,CA-101,Student,Ceiling fan is making a loud grinding noise and wobbling.,Electrical,Critical,Resolved,1
+REP-1303,2026-11-09 10:50:00,Main Campus,College of Agriculture,CA-204,Faculty,Two ceiling fans are not spinning and also fluorescent light near the board is flickering and also lAN port at the teacher's station is dead.,Electrical,Critical,Resolved,2
+REP-1304,2026-11-09 11:05:00,Main Campus,College of Teacher Education,CTE-201,Faculty,"Fluorescent bulb burned out again, and exhaust fan is busted and makes a burning smell.",Electrical,High,Resolved,2
+REP-1305,2026-11-09 13:30:00,Main Campus,College of Agriculture,CA-204,Student,Fluorescent light near the board is flickering.,Electrical,Low,Resolved,8
+REP-1306,2026-11-09 13:45:00,Main Campus,College of Arts & Sciences,CAS-108,Student,Wall outlet is loose and the plate is cracked.,Electrical,High,Resolved,10
+REP-1307,2026-11-09 14:30:00,Main Campus,College of Agriculture,CA-204,Faculty,Wall switch sparks slightly when turned on and also aircon will not turn on and the remote is not responding.,Electrical,High,Resolved,3
+REP-1308,2026-11-09 14:50:00,Main Campus,College of Agriculture,CA-204,Student,"Wall switch sparks slightly when turned on, and fluorescent light near the board is flickering.",Electrical,Critical,Resolved,2
+REP-1309,2026-11-09 16:50:00,Main Campus,College of Teacher Education,CTE-101,Faculty,Ceiling panel is sagging and about to fall.,Structural/Civil,Critical,Resolved,15
+REP-1310,2026-11-10 07:00:00,Main Campus,College of Agriculture,CA-202,Student,Exhaust fan does not pull air and the room feels stuffy.,HVAC/Ventilation,High,Resolved,2
+REP-1311,2026-11-10 07:20:00,Main Campus,College of Agriculture,CA-204,Student,Aircon dripping water again.,HVAC/Ventilation,Medium,Resolved,4
+REP-1312,2026-11-10 11:30:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Five plastic monobloc chairs are cracked.,Furniture & Fixtures,Low,Resolved,9
+REP-1313,2026-11-10 11:45:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,Two ceiling fans are not spinning.,Electrical,High,Resolved,3
+REP-1314,2026-11-10 12:10:00,Main Campus,College of Agriculture,CA-204,Student,Exhaust fan is busted and makes a burning smell.,Electrical,Critical,Resolved,2
+REP-1315,2026-11-10 12:20:00,Main Campus,College of Agriculture,CA-202,Faculty,Ceiling panel is sagging and about to fall.,Structural/Civil,Critical,Resolved,1
+REP-1316,2026-11-10 15:10:00,Main Campus,Science Laboratory Building,SLB-301,Faculty,Exhaust fan is busted and makes a burning smell; fluorescent bulb burned out again.,Electrical,Critical,Resolved,1
+REP-1317,2026-11-10 15:35:00,Main Campus,College of Engineering & Info Tech,CEIT-202,Student,"Electric fan stopped working during class, and wall outlet is loose and the plate is cracked, plus smart TV screen flickers.",Electrical,Low,Resolved,7
+REP-1318,2026-11-11 07:50:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,Extension cord is exposed and the socket is hot and also ceiling fan is making a loud grinding noise and wobbling.,Electrical,Critical,Resolved,1
+REP-1319,2026-11-11 11:30:00,Main Campus,College of Agriculture,CA-202,Student,LAN port at the teacher's station is dead.,IT & Audio-Visual,High,Resolved,4
+REP-1320,2026-11-11 12:50:00,Main Campus,Science Laboratory Building,SLB-303,Student,Two ceiling fans are not spinning and also circuit breaker keeps tripping.,Electrical,Critical,Resolved,2
+REP-1321,2026-11-11 12:50:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Aircon is leaking water.,HVAC/Ventilation,Medium,Resolved,5
+REP-1322,2026-11-11 13:20:00,Main Campus,College of Arts & Sciences,CAS-202,Student,Exhaust fan does not pull air and the room feels stuffy.,HVAC/Ventilation,Critical,Resolved,2
+REP-1323,2026-11-11 14:55:00,Main Campus,College of Teacher Education,CTE-203,Student,"Whiteboard frame is broken and the eraser tray fell off, and several chairs are missing screws and wobble.",Furniture & Fixtures,Low,Resolved,12
+REP-1324,2026-11-11 15:00:00,Main Campus,College of Arts & Sciences,CAS-101,Student,Electric fan stopped working during class.,Electrical,Low,Pending,
+REP-1325,2026-11-11 15:05:00,Main Campus,College of Agriculture,CA-204,Faculty,"Exhaust fan does not pull air and the room feels stuffy, plus two ceiling fans are not spinning; aircon is blowing warm air.",HVAC/Ventilation,Low,Resolved,6
+REP-1326,2026-11-12 07:15:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,"Three wooden armchairs have broken backrests and loose screws, and wall outlet is loose and the plate is cracked and also teacher's table drawer is stuck and the table top is damaged.",Furniture & Fixtures,Medium,Resolved,4
+REP-1327,2026-11-12 11:45:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,No water coming from the faucet; circuit breaker keeps tripping.,Plumbing,Critical,Resolved,2
+REP-1328,2026-11-12 12:25:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,Two ceiling fans are not spinning.,Electrical,High,Resolved,2
+REP-1329,2026-11-12 14:35:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,"Several chairs are missing screws and wobble, plus whiteboard is heavily stained and cannot be erased.",Furniture & Fixtures,Low,In Progress,
+REP-1330,2026-11-12 14:55:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Doorknob is jammed from the inside; electric fan stopped working during class.,Structural/Civil,High,Resolved,5
+REP-1331,2026-11-12 16:05:00,Main Campus,College of Agriculture,CA-202,Student,"Wall outlet has no power, plus wall switch sparks slightly when turned on.",Electrical,Critical,Resolved,1
+REP-1332,2026-11-12 16:45:00,Main Campus,College of Agriculture,CA-205,Student,"LAN port at the teacher's station is dead and also extension cord is exposed and the socket is hot, plus projector mount is loose.",IT & Audio-Visual,High,Resolved,4
+REP-1333,2026-11-13 08:20:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Doorknob is jammed from the inside.,Structural/Civil,Critical,Resolved,4
+REP-1334,2026-11-13 10:20:00,Main Campus,College of Teacher Education,CTE-202,Faculty,Exhaust fan does not pull air and the room feels stuffy and also floor tiles are broken near the entrance.,HVAC/Ventilation,Medium,Pending,
+REP-1335,2026-11-13 10:45:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Faculty,"Five plastic monobloc chairs are cracked, plus projector mount is loose.",Furniture & Fixtures,Low,Resolved,10
+REP-1336,2026-11-13 10:55:00,Main Campus,College of Teacher Education,CTE-105,Faculty,"Exhaust fan does not pull air and the room feels stuffy, and fluorescent bulb burned out again.",HVAC/Ventilation,Medium,Resolved,6
+REP-1337,2026-11-13 11:05:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,Chalkboard surface is peeling; teacher's table drawer is stuck and the table top is damaged.,Furniture & Fixtures,Medium,Resolved,8
+REP-1338,2026-11-13 13:20:00,Main Campus,College of Arts & Sciences,CAS-101,Student,Wall fan oscillation is stuck and the room is too hot.,HVAC/Ventilation,Critical,In Progress,
+REP-1339,2026-11-13 15:35:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Window glass is cracked.,Structural/Civil,Critical,Resolved,4
+REP-1340,2026-11-14 07:50:00,Main Campus,College of Engineering & Info Tech,CEIT-202,Student,Electric fan stopped working during class.,Electrical,Low,Resolved,11
+REP-1341,2026-11-14 08:35:00,Main Campus,College of Agriculture,CA-204,Student,Projector will not turn on.,IT & Audio-Visual,Medium,Resolved,5
+REP-1342,2026-11-14 09:05:00,Main Campus,College of Agriculture,CA-201,Student,Ceiling board shows water stains from a roof leak and also door hinge is broken and the door cannot close properly.,Structural/Civil,High,Resolved,3
+REP-1343,2026-11-14 11:15:00,Main Campus,College of Agriculture,CA-205,Faculty,Wall outlet is loose and the plate is cracked; lights in the back rows will not turn on.,Electrical,Critical,Resolved,1
+REP-1344,2026-11-14 11:50:00,Main Campus,College of Agriculture,CA-101,Faculty,Aircon dripping water again.,HVAC/Ventilation,Low,Resolved,7
+REP-1345,2026-11-14 12:45:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,Fluorescent light near the board is flickering.,Electrical,Low,Resolved,7
+REP-1346,2026-11-14 13:55:00,Main Campus,College of Arts & Sciences,CAS-101,Faculty,"Wall fan oscillation is stuck and the room is too hot, plus aircon makes a loud rattling noise and also exhaust fan does not pull air and the room feels stuffy.",HVAC/Ventilation,High,Resolved,5
+REP-1347,2026-11-14 16:50:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Exhaust fan does not pull air and the room feels stuffy; aircon dripping water again.,HVAC/Ventilation,Medium,Resolved,6
+REP-1348,2026-11-16 07:55:00,Main Campus,College of Teacher Education,CTE-105,Faculty,"Doorknob is jammed from the inside, and broken window lock.",Structural/Civil,Low,In Progress,
+REP-1349,2026-11-16 16:20:00,Main Campus,Science Laboratory Building,SLB-302,Faculty,Water pipe is leaking near the wall.,Plumbing,Critical,Resolved,9
+REP-1350,2026-11-17 07:05:00,Main Campus,College of Engineering & Info Tech,CEIT-301,Faculty,Two ceiling fans are not spinning and also window glass is cracked.,Electrical,Critical,Resolved,1
+REP-1351,2026-11-17 08:45:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Student desk leg is loose.,Furniture & Fixtures,Medium,In Progress,
+REP-1352,2026-11-17 11:45:00,Main Campus,College of Engineering & Info Tech,CEIT-301,Faculty,Wi-Fi access point in the room keeps disconnecting; wall outlet has no power.,IT & Audio-Visual,Low,Pending,
+REP-1353,2026-11-17 13:20:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Aircon is blowing warm air.,HVAC/Ventilation,Medium,Resolved,7
+REP-1354,2026-11-17 16:50:00,Main Campus,Science Laboratory Building,SLB-102,Student,"Two ceiling fans are not spinning, plus wall outlet is loose and the plate is cracked.",Electrical,Medium,Resolved,7
+REP-1355,2026-11-18 07:30:00,Main Campus,College of Agriculture,CA-202,Student,"Aircon is leaking water, plus wall outlet is loose and the plate is cracked.",HVAC/Ventilation,Medium,Resolved,5
+REP-1356,2026-11-18 09:35:00,Main Campus,College of Agriculture,CA-204,Faculty,Lights in the back rows will not turn on; wall fan oscillation is stuck and the room is too hot.,Electrical,Critical,Resolved,1
+REP-1357,2026-11-18 10:25:00,Main Campus,College of Teacher Education,CTE-105,Student,Lights in the back rows will not turn on.,Electrical,High,Resolved,3
+REP-1358,2026-11-18 10:40:00,Main Campus,College of Agriculture,CA-202,Student,"Broken window lock, plus ceiling panel is sagging and about to fall.",Structural/Civil,Critical,Resolved,2
+REP-1359,2026-11-18 11:05:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Faculty,"Window glass is cracked, and fluorescent light near the board is flickering, and ceiling fan is making a loud grinding noise and wobbling.",Structural/Civil,High,Resolved,4
+REP-1360,2026-11-18 16:55:00,Main Campus,College of Arts & Sciences,CAS-202,Student,Circuit breaker keeps tripping.,Electrical,Critical,Resolved,1
+REP-1361,2026-11-19 07:25:00,Main Campus,Science Laboratory Building,SLB-102,Student,"Wall outlet is loose and the plate is cracked, and water pipe is leaking near the wall, and lights in the back rows will not turn on.",Electrical,High,Resolved,3
+REP-1362,2026-11-19 09:15:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,"Doorknob is jammed from the inside, plus ceiling board shows water stains from a roof leak.",Structural/Civil,High,Resolved,5
+REP-1363,2026-11-19 10:20:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,"Student desk leg is loose, and several chairs are missing screws and wobble and also chalkboard surface is peeling.",Furniture & Fixtures,High,Resolved,3
+REP-1364,2026-11-19 11:30:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Student,"Whiteboard frame is broken and the eraser tray fell off, plus five plastic monobloc chairs are cracked.",Furniture & Fixtures,Medium,In Progress,
+REP-1365,2026-11-19 11:45:00,Main Campus,Science Laboratory Building,SLB-301,Faculty,Faucet at the lab sink is leaking continuously; floor drain is clogged.,Plumbing,Medium,Resolved,6
+REP-1366,2026-11-19 13:10:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,"Projector image is blurry and dim, and smart TV screen flickers.",IT & Audio-Visual,Low,Resolved,6
+REP-1367,2026-11-19 13:45:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Exhaust fan is busted and makes a burning smell.,Electrical,High,Resolved,2
+REP-1368,2026-11-19 15:15:00,Main Campus,College of Teacher Education,CTE-101,Faculty,"Wall outlet has no power, plus two ceiling fans are not spinning and also door hinge is broken and the door cannot close properly.",Electrical,High,Resolved,4
+REP-1369,2026-11-19 15:45:00,Main Campus,Science Laboratory Building,SLB-102,Student,Ceiling panel is sagging and about to fall and also circuit breaker keeps tripping.,Structural/Civil,Critical,Resolved,2
+REP-1370,2026-11-19 15:50:00,Main Campus,College of Agriculture,CA-101,Faculty,Several chairs are missing screws and wobble.,Furniture & Fixtures,Low,In Progress,
+REP-1371,2026-11-19 16:10:00,Main Campus,College of Teacher Education,CTE-202,Student,Door hinge is broken and the door cannot close properly and also circuit breaker keeps tripping.,Structural/Civil,Critical,Resolved,1
+REP-1372,2026-11-20 08:55:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Ceiling panel is sagging and about to fall.,Structural/Civil,Critical,Resolved,4
+REP-1373,2026-11-20 12:40:00,Main Campus,College of Arts & Sciences,CAS-102,Student,Circuit breaker keeps tripping.,Electrical,Critical,Resolved,1
+REP-1374,2026-11-20 14:20:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,Projector HDMI port is damaged.,IT & Audio-Visual,Medium,Resolved,5
+REP-1375,2026-11-20 14:30:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,Extension cord is exposed and the socket is hot.,Electrical,Critical,Resolved,2
+REP-1376,2026-11-20 14:30:00,Main Campus,College of Arts & Sciences,CAS-102,Faculty,Circuit breaker keeps tripping.,Electrical,Critical,In Progress,
+REP-1377,2026-11-20 16:00:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,"Fluorescent light near the board is flickering, and exhaust fan is busted and makes a burning smell.",Electrical,Critical,Resolved,2
+REP-1378,2026-11-21 11:05:00,Main Campus,Science Laboratory Building,SLB-302,Student,No water coming from the faucet.,Plumbing,High,Resolved,4
+REP-1379,2026-11-21 11:20:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Two ceiling fans are not spinning and also exhaust fan is busted and makes a burning smell.,Electrical,High,Resolved,2
+REP-1380,2026-11-21 14:40:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Roof leak above the teacher's podium during heavy rain and also student desk leg is loose.,Structural/Civil,High,Resolved,3
+REP-1381,2026-11-21 14:55:00,Main Campus,Science Laboratory Building,SLB-102,Student,Exhaust fan is busted and makes a burning smell and also extension cord is exposed and the socket is hot.,Electrical,Critical,Resolved,1
+REP-1382,2026-11-23 07:05:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Student,Projector HDMI port is damaged.,IT & Audio-Visual,High,Resolved,3
+REP-1383,2026-11-23 07:30:00,Main Campus,College of Agriculture,CA-204,Student,Fluorescent light near the board is flickering.,Electrical,High,Pending,
+REP-1384,2026-11-23 09:25:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Student,"Door hinge is broken and the door cannot close properly, and broken window lock.",Structural/Civil,High,Pending,
+REP-1385,2026-11-23 11:10:00,Main Campus,College of Engineering & Info Tech,CEIT-201,Faculty,Whiteboard frame is broken and the eraser tray fell off.,Furniture & Fixtures,Low,In Progress,
+REP-1386,2026-11-23 12:20:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Faculty,Floor tiles are broken near the entrance.,Structural/Civil,Medium,In Progress,
+REP-1387,2026-11-23 12:20:00,Main Campus,College of Engineering & Info Tech,CEIT-103,Faculty,Projector HDMI port is damaged.,IT & Audio-Visual,Medium,In Progress,
+REP-1388,2026-11-23 12:35:00,Main Campus,Science Laboratory Building,SLB-102,Faculty,Wall switch sparks slightly when turned on and also two ceiling fans are not spinning.,Electrical,Critical,Resolved,2
+REP-1389,2026-11-23 12:40:00,Main Campus,Science Laboratory Building,SLB-302,Faculty,"Aircon is leaking water, and floor tiles are broken near the entrance, and no water coming from the faucet.",HVAC/Ventilation,High,Pending,
+REP-1390,2026-11-23 16:55:00,Main Campus,Science Laboratory Building,SLB-301,Student,Wall switch sparks slightly when turned on and also no water coming from the faucet.,Electrical,Critical,Resolved,2
+REP-1391,2026-11-24 11:55:00,Main Campus,College of Teacher Education,CTE-105,Faculty,Extension cord is exposed and the socket is hot and also wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,1
+REP-1392,2026-11-24 13:15:00,Main Campus,College of Agriculture,CA-204,Faculty,"Lights in the back rows will not turn on; exposed electrical wiring near the back counter, and aircon is blowing warm air.",Electrical,Critical,Resolved,1
+REP-1393,2026-11-25 07:30:00,Main Campus,College of Agriculture,CA-204,Student,Aircon is leaking water.,HVAC/Ventilation,High,Pending,
+REP-1394,2026-11-25 09:05:00,Main Campus,College of Arts & Sciences,CAS-108,Faculty,Projector mount is loose.,IT & Audio-Visual,Medium,Pending,
+REP-1395,2026-11-25 09:40:00,Main Campus,College of Engineering & Info Tech,CEIT-101,Faculty,Aircon is blowing warm air.,HVAC/Ventilation,Critical,In Progress,
+REP-1396,2026-11-25 12:30:00,Main Campus,College of Agriculture,CA-204,Student,Window glass is cracked.,Structural/Civil,Critical,In Progress,
+REP-1397,2026-11-25 12:50:00,Main Campus,College of Agriculture,CA-204,Student,"Exhaust fan is busted and makes a burning smell, and fluorescent light near the board is flickering.",Electrical,High,Pending,
+REP-1398,2026-11-25 14:05:00,Main Campus,College of Agriculture,CA-204,Faculty,Aircon will not turn on and the remote is not responding and also window glass is cracked and also exhaust fan does not pull air and the room feels stuffy.,HVAC/Ventilation,Medium,In Progress,
+REP-1399,2026-11-25 14:10:00,Main Campus,College of Engineering & Info Tech,CEIT-102,Student,Broken window lock; exhaust fan does not pull air and the room feels stuffy.,Structural/Civil,Medium,In Progress,
+REP-1400,2026-11-25 16:55:00,Main Campus,College of Arts & Sciences,CAS-102,Faculty,Fluorescent light near the board is flickering and also wall outlet is loose and the plate is cracked.,Electrical,Critical,Pending,
